@@ -24,7 +24,7 @@ layout:
 
 Welcome to my corner of Active Directory Hacking, my name is RFS and here I keep notes about Penetration testing and Red Teaming on Windows Infrastructures.
 
-<figure><img src=".gitbook/assets/Active-Directory-Attacks.png" alt=""><figcaption><p>Active Directory Penetration Testing</p></figcaption></figure>
+<figure><img src="Active-Directory-Attacks.png" alt=""><figcaption><p>Active Directory Penetration Testing</p></figcaption></figure>
 
 ### Do you Want More?
 
@@ -38,7 +38,7 @@ I Have a lot more, I have juice everywhere - trust me you will love it!
 
 {% @mailchimp/mailchimpSubscribe %}
 
-<figure><img src=".gitbook/assets/Cyber-Kill-Chain.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="Cyber-Kill-Chain.jpg" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://ad-attacks.com/" %}
 
